@@ -1,4 +1,4 @@
-<h1>Exercício de CSS responsivoi do DEV CLUB</h1>
+<h1>Exercício de CSS responsivo do DEV CLUB</h1>
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://www.devclub.com.br">DevClub</a></h2>
